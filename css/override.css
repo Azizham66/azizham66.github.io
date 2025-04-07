@@ -45,6 +45,9 @@ body {
   right: 0;
 }
 
+code {
+  text-align: left !important;
+}
 
 
 .post_navi .post_navi-arrow {
