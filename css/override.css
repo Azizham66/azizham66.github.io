@@ -33,6 +33,10 @@ body {
   text-align: left;
 }
 
+footer {
+  text-align: left !important;
+}
+
 .post_navi .nav_next {
   text-align: right;
 }
