@@ -3,6 +3,15 @@ hr {
   margin-bottom: 20px;
 }
 
+html {
+  direction: rtl;
+  text-align: right;
+}
+body {
+  font-family: "Tajawal", sans-serif; /* Optional: Use an Arabic-friendly font */
+}
+
+
 /* Post navigation links */
 .post_navi {
   display: flex;
