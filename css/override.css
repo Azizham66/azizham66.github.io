@@ -45,6 +45,11 @@ body {
   right: 0;
 }
 
+footer {
+  direction: ltr !important;
+  text-align: left !important;
+}
+
 .post_navi .post_navi-arrow {
   position: absolute;
   top: 50%;
