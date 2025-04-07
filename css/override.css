@@ -7,7 +7,7 @@ html {
   direction: rtl;
   text-align: right;
 }
-body {
+body, nav{
   font-family: "Tajawal", sans-serif; /* Optional: Use an Arabic-friendly font */
 }
 
