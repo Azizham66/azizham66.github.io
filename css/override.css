@@ -5,11 +5,8 @@ hr {
   margin-bottom: 20px;
 }
 
-html {
-  direction: rtl;
-  text-align: right;
-}
 body, nav{
+  text-align: right;
   font-family: "Tajawal", sans-serif !important; /* Optional: Use an Arabic-friendly font */
 }
 
