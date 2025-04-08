@@ -56,6 +56,9 @@ code {
   text-align: left !important;
 }
 
+pre {
+  text-align: left !important;
+}
 
 .post_navi .post_navi-arrow {
   position: absolute;
