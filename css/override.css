@@ -5,7 +5,13 @@ hr {
   margin-bottom: 20px;
 }
 
+pre {
+  direction: ltr;
+  text-align: left;
+}
+
 body, nav{
+  direction: rtl;
   text-align: right;
   font-family: "Tajawal", sans-serif !important; /* Optional: Use an Arabic-friendly font */
 }
@@ -47,14 +53,6 @@ footer {
 
 .post_navi .nav_next .post_navi-arrow {
   right: 0;
-}
-
-code {
-  text-align: left !important;
-}
-
-pre {
-  text-align: left !important;
 }
 
 .post_navi .post_navi-arrow {
